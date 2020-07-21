@@ -2,10 +2,10 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"clean_metadata": "00_movies_metadata.ipynb",
-         "get_adult_feature": "00_movies_metadata.ipynb",
+index = {"get_adult_feature": "00_movies_metadata.ipynb",
          "get_genre_names": "00_movies_metadata.ipynb",
          "labelEncoder_genres": "00_movies_metadata.ipynb",
+         "clean_metadata": "00_movies_metadata.ipynb",
          "get_original_language": "00_movies_metadata.ipynb",
          "get_numerical_features": "00_movies_metadata.ipynb",
          "get_datetime": "00_movies_metadata.ipynb",
@@ -15,9 +15,16 @@ index = {"clean_metadata": "00_movies_metadata.ipynb",
          "preprocess": "00_movies_metadata.ipynb",
          "encode_movie_overview": "00_movies_metadata.ipynb",
          "get_movie_features": "00_movies_metadata.ipynb",
-         "add_labels": "01_users.ipynb"}
+         "add_labels": "01_users.ipynb",
+         "create_training_data": "01_users.ipynb",
+         "train_nn_user_behaviour": "01_users.ipynb",
+         "extract_weights": "01_users.ipynb",
+         "eval_model": "01_users.ipynb",
+         "get_user_movie_output": "01_users.ipynb",
+         "train_nn_user_content_behaviour": "01_users.ipynb"}
 
-modules = ["movies_metadata.py",
+modules = ["core.py",
+           "movies_metadata.py",
            "users.py"]
 
 doc_url = "https://Hassan.github.io/movierecommender/"

@@ -22,6 +22,7 @@ from gensim import corpora, models
 import nltk
 import umap
 import matplotlib.pyplot as plt
+import plotly.express as px
 
 # Cell
 def clean_metadata(df):
