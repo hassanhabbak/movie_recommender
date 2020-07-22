@@ -2,6 +2,8 @@
 > This is a movie recommender implementation of user to movie and movie to movie recommendations. The methods used are primarily focused on embeddings to extrapolate similarity between users and items.
 
 
+https://hassanhabbak.github.io/movie_recommender/
+
 ## Dependencies
 
 `conda create --name <env> --file requirements.txt`

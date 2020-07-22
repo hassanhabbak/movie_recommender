@@ -1,5 +1,5 @@
 {
-  "movierecommender": {
+  "movie_recommender": {
     "Overview": "/",
     "Movies_Metadata": "/movies_metadata",
     "Users": "/users"

@@ -16,6 +16,6 @@ entries:
       title: Users
       url: /users
     output: web
-    title: movierecommender
+    title: movie_recommender
   output: web
   title: Sidebar
