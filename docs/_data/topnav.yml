@@ -2,7 +2,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/Hassan/nbdev_template
+      external_url: https://github.com/hassan/nbdev_template
 
 #Topnav dropdowns
 topnav_dropdowns:

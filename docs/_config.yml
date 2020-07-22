@@ -1,9 +1,9 @@
-repository: Hassan/nbdev_template
+repository: hassan/nbdev_template
 output: web
 topnav_title: nbdev_template
 site_title: nbdev_template
-company_name: Open for use
-description: Building a recommender engine for movies
+company_name: Hassan
+description: NBDev example
 # Set to false to disable KaTeX math
 use_math: true
 # Add Google analytics id if you have one and want to use it here
@@ -61,4 +61,4 @@ sidebars:
 permalink: pretty
 
 theme: jekyll-theme-cayman
-baseurl: /movierecommender/
+baseurl: /nbdev_template/

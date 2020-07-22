@@ -29,7 +29,7 @@ movies_df.head()
 
     C:\Users\hhapp\anaconda3\envs\tensorflow\lib\site-packages\IPython\core\interactiveshell.py:3063: DtypeWarning: Columns (10) have mixed types.Specify dtype option on import or set low_memory=False.
       interactivity=interactivity, compiler=compiler, result=result)
-    
+
 
 
 
@@ -222,7 +222,7 @@ movies_df.head()
     </tr>
   </tbody>
 </table>
-<p>5 rows × 27 columns</p>
+<p>5 rows Ã— 27 columns</p>
 </div>
 
 

@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: movies_metadata
+      title: Movies_Metadata
       url: /movies_metadata
     - output: web,pdf
       title: Users
